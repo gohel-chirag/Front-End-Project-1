@@ -2,7 +2,7 @@
 <!-- ![Project Screenshot](Screenshots/Front-End-Project-1.png) -->
 <h2>Front-End-Project Preview</h2>
 
-<img src="Screenshots/Front-End-Project-1.png" width="700" alt="Front-End-Project Screenshot">
+<img src="Screenshots/Front-End-Project-1.png" width="700" align="center" alt="Front-End-Project Screenshot">
 
 
 # Demo Download Page
