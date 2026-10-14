@@ -1,8 +1,5 @@
 # Front-End-Project Preview :
-<!-- ![Project Screenshot](Screenshots/Front-End-Project-1.png) -->
-<h2>Front-End-Project Preview</h2>
-
-<img src="Screenshots/Front-End-Project-1.png" width="700" align="center" alt="Front-End-Project Screenshot">
+![Project Screenshot](Screenshots/Front-End-Project-1.png)
 
 
 # Demo Download Page
