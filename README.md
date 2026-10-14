@@ -1,5 +1,8 @@
 # Front-End-Project Preview :
-![Project Screenshot](Screenshots/Front-End-Project-1.png)
+<!-- ![Project Screenshot](Screenshots/Front-End-Project-1.png) -->
+<h2>Front-End-Project Preview</h2>
+
+<img src="Screenshots/Front-End-Project-1.png" width="700" alt="Front-End-Project Screenshot">
 
 
 # Demo Download Page
@@ -31,6 +34,8 @@ The page includes:
 Front-End-Project-1/
 ├── index.html
 ├── style.css
+├── Screenshots/
+│   └── Front-End-Project-1.png
 └── README.md
 ```
 
